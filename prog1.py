@@ -2,15 +2,15 @@ import streamlit as st
 
 def run():
     st.set_page_config(
-        page_title="Hello",
+        page_title="VSU ChatBot",
         page_icon="👋",
         )
 
-    st.write("# VSU ChatBot! 👋")
+    st.write("# Welcome to the VSU ChatBot, Yappers!! 👋")
 
     st.markdown(
       """
-       Welcome to the VSU ChatBot, Yappers! Yappers is here to help you with your classes and give encouragement to every student. Please enter a question in the chat box below!
+        Yappers is here to help you with your classes and give encouragement to every student. Please enter a question in the chat box below!
       """
     )
 
