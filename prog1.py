@@ -14,8 +14,8 @@ def run():
       """
     )
 
-    question = st.text_input("Enter Question: ", "What's your major?")
-    st.write("The question you asked was: ", question)
+    question = st.text_input("Enter Question: " + "What's your major?")
+    st.write("The question you asked was: " + question)
 
 
 if __name__ == "__main__":
