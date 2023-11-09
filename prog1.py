@@ -1,11 +1,11 @@
 import streamlit as st
 
 [theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+primaryColor="#0908F5"
+backgroundColor="#F58C08"
+secondaryBackgroundColor="#E9F1F0"
+textColor="#0A0A0A"
+font= "sans serif"
 
 def run():
     st.set_page_config(
