@@ -6,7 +6,7 @@ def run():
         page_icon="👋",
         )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# VSU ChatBot! 👋")
 
     st.markdown(
       """
