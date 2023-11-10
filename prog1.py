@@ -21,8 +21,8 @@ def run():
       """
     )
 
-question = st.text_input('Enter your question here: ', 'What classes should I take?')
-st.write('The question you asked was: ', question)
+#question = st.text_input('Enter your question here: ', 'What classes should I take?')
+#st.write('The question you asked was: ', question)
 
 if __name__ == "__main__":
     run()
